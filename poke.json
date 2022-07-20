@@ -1,0 +1,52 @@
+{
+    "apiName" : " AniPoke " ,
+    "origin" : " CDMX " ,
+    "created" : 2021 ,
+    "figures" :[
+        {
+            "id" : 1 ,
+            "name" : " Pikachu " ,
+            "tipe" : " Electrico " ,
+            "heigth" : 0.4,
+            "weight" : 10 ,
+            "des" : " Es amarillo y su poder es la electricidad " ,
+            "figure" : "https://images.app.goo.gl/Xh9PXMmJ3bHmsUQe9"
+        },
+        {
+            "id" : 2 ,
+            "name" : " Growlithe " ,
+            "tipe" : " Fuego " ,
+            "heigth" : 0.7 ,
+            "weight" : 19 ,
+            "des" : " Es de color marron y su poder es de fuego " ,
+            "figure" : " https://images.app.goo.gl/hghod76q13C5M8LfA "    
+        },
+        {
+            "id" : 3 ,
+            "name" : " Shellos " ,
+            "tipe" : " Agua " ,
+            "heigth" : 0.3 ,
+            "weight" : 6.3 ,
+            "des" : " Pueden ser de color rosa o azul y su poder es de agua  " ,
+            "figure" : " https://images.app.goo.gl/9gRo2bqcMkPfvxRg6 "        
+        },
+        {
+            "id" : 4 ,
+            "name" : " Pachirisu " ,
+            "tipe" : " Electrico " ,
+            "heigth" : 0.4 ,
+            "weight" : 3.9 ,
+            "des" : " ES de color blanco con un toque de azul pastel y su poder es electrico " ,
+            "figure" : " https://images.app.goo.gl/HNVwWCKps726h9TE8 "  
+        },
+        {
+            "id" : 5 ,
+            "name" : " Squirtle " ,
+            "tipe" : " Agua " ,
+            "heigth" : 0.5 ,
+            "weight" : 9.0 ,
+            "des" : " Es de color azul y su poder es de agua " ,
+            "figure" : " https://images.app.goo.gl/UMpRgMJZoUCyx1M99 "      
+        }
+    ]
+}
