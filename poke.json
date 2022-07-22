@@ -1,7 +1,7 @@
 {
-    "apiName" : " AniPoke " ,
-    "origin" : " CDMX " ,
-    "created" : 2021 ,
+    "apiName" : " mi pokedex" ,
+    "origin" : " Queretaro " ,
+    "created" : 2022 ,
     "figures" :[
         {
             "id" : 1 ,
@@ -10,7 +10,7 @@
             "heigth" : 0.4,
             "weight" : 10 ,
             "des" : " Es amarillo y su poder es la electricidad " ,
-            "figure" : "https://images.app.goo.gl/Xh9PXMmJ3bHmsUQe9"
+            "figure" : " https://drive.google.com/uc?export=view&id=1N2NZzd3563LIqtCIi75r3_8ZwYiRM7VY/view?usp=sharing "
         },
         {
             "id" : 2 ,
@@ -19,7 +19,7 @@
             "heigth" : 0.7 ,
             "weight" : 19 ,
             "des" : " Es de color marron y su poder es de fuego " ,
-            "figure" : " https://images.app.goo.gl/hghod76q13C5M8LfA "    
+            "figure" : " https://drive.google.com/uc?export=view&id=1WKkiG1B8bVHQWqTpFqqiXyjJJdYAMj78/view?usp=sharing "    
         },
         {
             "id" : 3 ,
@@ -28,7 +28,7 @@
             "heigth" : 0.3 ,
             "weight" : 6.3 ,
             "des" : " Pueden ser de color rosa o azul y su poder es de agua  " ,
-            "figure" : " https://images.app.goo.gl/9gRo2bqcMkPfvxRg6 "        
+            "figure" : " https://drive.google.com/uc?export=view&id=1IRDEu2bI7ZItVjt7RuGlxg_8F3vP5ZHs/view?usp=sharing "        
         },
         {
             "id" : 4 ,
@@ -37,7 +37,7 @@
             "heigth" : 0.4 ,
             "weight" : 3.9 ,
             "des" : " ES de color blanco con un toque de azul pastel y su poder es electrico " ,
-            "figure" : " https://images.app.goo.gl/HNVwWCKps726h9TE8 "  
+            "figure" : " https://drive.google.com/uc?export=view&id=1q-_uCTJWtot78TUPqxw0ahA5pCP5rynA/view?usp=sharing "  
         },
         {
             "id" : 5 ,
@@ -46,7 +46,7 @@
             "heigth" : 0.5 ,
             "weight" : 9.0 ,
             "des" : " Es de color azul y su poder es de agua " ,
-            "figure" : " https://images.app.goo.gl/UMpRgMJZoUCyx1M99 "      
+            "figure" : " https://drive.google.com/uc?export=view&id=1I3ildNFS2SYKWaDJRL-VQuO9Rx7TkRgc/view?usp=sharing "      
         }
     ]
 }
