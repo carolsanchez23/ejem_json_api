@@ -1,7 +1,7 @@
 var idp=1;
 var long=0;
 
-   const url="";
+   const url="https://carolsanchez23.github.io/ejem_json_api/poke.json";
 
    function buscar(){
 
@@ -31,11 +31,11 @@ var long=0;
             p5.innerHTML="<b>Descripcion:  </b>"+res[0].des;
         })
         
-        .catch(function(error){
-            console.log(error);
+        .catch(function(error){                  
+            console.log(error);           
         });
-
-        if (idp  >=long){
+        
+        if (idp  >= long){
             idp=1;
         }else{
             idp++;
